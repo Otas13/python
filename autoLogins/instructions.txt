@@ -1,5 +1,5 @@
-https://reddit.com/
-user
-passwd
-pifson
-ilov3kofola
+https://<page with login form>.com/
+<login input name>
+<password input name>
+<your login>
+<your passwd>
